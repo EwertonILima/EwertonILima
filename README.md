@@ -1,7 +1,7 @@
 
 ## Hi 👋, I'm Ewerton Lima
 
-### Dev. Full Stack Java / Angular
+### Software Engineer / Back-end Developer
 ##
 ### An eternal apprentice in the area of ​​software development, cursing Analysis and Systems Development and graduated Telecommunications Engineering.
 
