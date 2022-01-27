@@ -10,13 +10,14 @@
 ### Technologies: 🔧
 
 ![Java Badge](https://img.shields.io/badge/Java-aa1117?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-69b63e?style=for-the-badge&logo=spring&logoColor=white)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-F6891F?style=for-the-badge&logo=kotlin&logoColor=kotlin)
+![Spring Badge](https://img.shields.io/badge/Spring-69b63e?style=for-the-badge&logo=spring&logoColor=white)
 
 ![GIT Badge](https://img.shields.io/badge/git-f05133?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-ffb306?style=for-the-badge&logo=amazon&logoColor=white)
+![AWS Badge](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-57829e?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-fd6c35?style=for-the-badge&logo=postman&logoColor=white)
+![Postman Badge](https://img.shields.io/badge/Postman-fd6c35?style=for-the-badge&logo=postman&logoColor=white)
 
 
 
