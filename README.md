@@ -3,7 +3,7 @@
 
 ### Software Engineer / Back-end Developer
 ##
-### An eternal apprentice in the area of ​​software development, studying Analysis and Systems Development and graduated Telecommunications Engineering.
+###
 
 
 ##
