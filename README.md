@@ -20,33 +20,33 @@ I'm a **Backend Engineer** with over 4 years of experience building scalable, ma
 ### 🔧 Tech Stack & Tools
 
 #### 🛠️ Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-AA1117?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-F6891F?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring-69B63E?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-FFCB2B?style=for-the-badge&logo=java&logoColor=black)
+![Mockito](https://img.shields.io/badge/Mockito-FFC107?style=for-the-badge&logo=java&logoColor=black)
 
 #### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05133?style=for-the-badge&logo=git&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 #### 📦 Messaging & Caching
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![AWS SQS](https://img.shields.io/badge/SQS-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### 🛢️ Databases & APIs
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
 #### 📈 Monitoring & Observability
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![AWS CloudWatch](https://img.shields.io/badge/CloudWatch-4B32C3?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-FF0080?style=for-the-badge&logo=splunk&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-4B32C3?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -70,4 +70,4 @@ I'm a **Backend Engineer** with over 4 years of experience building scalable, ma
 
 ### 🔗 Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewertonilima/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewertonilima/)
