@@ -1,31 +1,73 @@
-
 ## Hi 👋, I'm Ewerton Lima
 
-### Software Engineer / Back-end Developer
-##
-###
+### 💻 Software Engineer / Back-end Developer  
+> Backend Engineer | Java & Kotlin Enthusiast | AWS | Clean Code | Event-driven Architectures
 
+---
 
-##
-### Technologies: 🔧
+### 🧠 About Me
 
-![Java Badge](https://img.shields.io/badge/Java-aa1117?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-F6891F?style=for-the-badge&logo=kotlin&logoColor=kotlin)
-![Spring Badge](https://img.shields.io/badge/Spring-69b63e?style=for-the-badge&logo=spring&logoColor=white)
+I'm a **Backend Engineer** with over 4 years of experience building scalable, maintainable, and high-performance systems using **Java**, **Kotlin**, and **Spring Boot**. Currently working at **Itaú Unibanco**, the largest bank in Latin America, where I:
 
-![GIT Badge](https://img.shields.io/badge/git-f05133?style=for-the-badge&logo=git&logoColor=white)
-![AWS Badge](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+- 🏦 Develop **Open Finance APIs** in compliance with the Brazilian Central Bank regulations  
+- 💳 Build and maintain **BFFs** for Credit Card Services, serving over 20 million users  
+- 🧩 Work with **monolithic** and **microservices architectures**, including **Redis**, **Kafka**, and **asynchronous processing**  
+- ☁️ Deploy and monitor applications using **AWS (Lambda, S3, SQS, DynamoDB)**  
+- ✅ Apply best practices like **TDD**, clean code, and observability
 
-![MySQL Badge](https://img.shields.io/badge/MySQL-57829e?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman Badge](https://img.shields.io/badge/Postman-fd6c35?style=for-the-badge&logo=postman&logoColor=white)
+---
 
+### 🔧 Tech Stack & Tools
 
+#### 🛠️ Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-AA1117?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-F6891F?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-69B63E?style=for-the-badge&logo=spring&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-FFCB2B?style=for-the-badge&logo=java&logoColor=black)
 
+#### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05133?style=for-the-badge&logo=git&logoColor=white)
 
-##
-<a href="https://github.com/EwertonILima?tab=repositories"><img height="135px" src="https://github-readme-stats.vercel.app/api?username=EwertonILima&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&_color=9f9f9f&text_color=9f9f9f&icon_color=79ff97&bg_color=151515&theme=graywhite" /><!-- wi*quL3fcV --><img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonILima&hide_title=false&hide_border=true&layout=compact&langs_count=8&text_color=9f9f9f&icon_color=79ff97&bg_color=151515&theme=graywhite" /></a>
+#### 📦 Messaging & Caching
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/SQS-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-##
-### Connect with me: 🔗
+#### 🛢️ Databases & APIs
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewertonilima/)
+#### 📈 Monitoring & Observability
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/CloudWatch-4B32C3?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+### 🚀 What I'm focusing on
+
+- Delivering high-impact solutions with **Java & Kotlin**
+- Working with **asynchronous systems**, event-driven design, and cloud infrastructure
+- Exploring how to apply **AI into backend workflows**
+- Promoting **clean architecture**, TDD, and mentoring others when needed
+
+---
+
+### 📈 GitHub Stats
+
+<a href="https://github.com/EwertonILima?tab=repositories">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=EwertonILima&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&_color=9f9f9f&text_color=9f9f9f&icon_color=79ff97&bg_color=151515&theme=graywhite" />
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonILima&hide_title=false&hide_border=true&layout=compact&langs_count=8&text_color=9f9f9f&icon_color=79ff97&bg_color=151515&theme=graywhite" />
+</a>
+
+---
+
+### 🔗 Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewertonilima/)
