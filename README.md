@@ -1,13 +1,13 @@
 ## Hi 👋, I'm Ewerton Lima
 
 ### 💻 Software Engineer / Back-end Developer  
-> Backend Engineer | Java & Kotlin Enthusiast | AWS | Clean Code | Event-driven Architectures
+> Software Engineer | Java & Kotlin Enthusiast | AWS | Clean Code | Event-driven Architectures
 
 ---
 
 ### 🧠 About Me
 
-I'm a **Backend Engineer** with over 4 years of experience building scalable, maintainable, and high-performance systems using **Java**, **Kotlin**, and **Spring Boot**. Currently working at **Itaú Unibanco**, the largest bank in Latin America, where I:
+I'm a **Software Engineer** with over 4 years of experience building scalable, maintainable, and high-performance systems using **Java**, **Kotlin**, and **Spring Boot**. Currently working at **Itaú Unibanco**, the largest bank in Latin America, where I:
 
 - 🏦 Develop **Open Finance APIs** in compliance with the Brazilian Central Bank regulations  
 - 💳 Build and maintain **BFFs** for Credit Card Services, serving over 20 million users  
